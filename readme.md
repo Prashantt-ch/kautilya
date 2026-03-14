@@ -23,23 +23,23 @@ The goal of the project is to create a simple and intelligent learning assistant
 
 ## Screenshots
 
-images/img1.jpeg
+## Screenshots
 
-images/img2.jpeg
+![App Screenshot](images/img1.jpeg)
 
-images/img3.jpeg
+![App Screenshot](images/img2.jpeg)
 
-images/img4.jpeg
+![App Screenshot](images/img3.jpeg)
 
-images/img5.jpeg
+![App Screenshot](images/img4.jpeg)
 
-images/img6.jpeg
+![App Screenshot](images/img5.jpeg)
 
-images/img7.jpeg
+![App Screenshot](images/img6.jpeg)
 
-images/img8.jpeg
+![App Screenshot](images/img7.jpeg)
 
-images/img9.jpeg
+![App Screenshot](images/img8.jpeg)
 
 
 ---
