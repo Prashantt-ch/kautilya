@@ -1,0 +1,5 @@
+streamlit
+openai
+pypdf
+streamlit-mic-recorder
+python-dotenv
