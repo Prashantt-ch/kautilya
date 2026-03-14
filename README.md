@@ -1,2 +1,0 @@
-# kautilya
-interactive student chatbot
